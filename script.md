@@ -1,12 +1,14 @@
 # Proposal
 ## Day 1: Planning...
-1. Getting to know each other (10 minutes);
-2. Structure of the workshop (15 minutes);
+1. Eastern Bloc presentation and getting to know each other (10 minutes);
+2. Workshop structure (15 minutes);
 3. Introduction to the Insertions project (45 minutes);
 4. Introduction to Machine Learning (1h:20);
 5. Break (15 minutes);
 6. Machine Learning framework for Insertions (1h:30); 
-- White news insertion w/machine learning
+- Wekinator
+- Simple classification examples with video-camera
+- News insertion w/machine learning
 7. Brainstorm & 'homework' (45 minutes).
 
 ## Day 2: Action!
