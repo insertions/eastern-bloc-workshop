@@ -6,7 +6,7 @@ This is the procedure we're proposing:
 
 ## Generating ideas - 25 min
 2. Explain: How will we proceed?
-  	- Adapted [5-3-5 Brainstorm]( https://en.wikipedia.org/wiki/6-3-5_Brainwriting). Maybe 6-3-4;
+  	- Adapted [6-3-5 Brainstorm]( https://en.wikipedia.org/wiki/6-3-5_Brainwriting). Maybe 6-3-4;
 
 3. Follow the technique!
 
