@@ -26,7 +26,7 @@ When you're done, you can open the webInsertion software you just downloaded. If
 
 ![Screenshot](assets/webInsertion-screenshot.png)
 
-At any time, you can change the target video by modifying the "video.txt" and by clicking on "reload URL from file" inside the application. You can hide the debug info by unselecting "Show debug info".
+At any time, you can change the target video by clicking on "reload URL from file", and pasting the new link inside the "video.txt" file. You can hide the debug info by unselecting "Show debug info".
 
 If you're having problems, make sure you have picked a valid video, and that its link is correctly pasted into the "video.txt" file.
 
@@ -113,8 +113,8 @@ In this case, you'll also need as dependencies:
 - The [webInsertion's source](https://github.com/jeraman/insertions/tree/master/osx/webInsertion).
 
 You'll also need to install the following oF addons:
-- https://github.com/jvcleave/ofxAvFoundationHLSPlayer
-- https://github.com/astellato/ofxSyphon
+- [ofxAvFoundationHLSPlayer](https://github.com/insertions/ofxAvFoundationHLSPlayer);
+- [ofxSyphon](https://github.com/astellato/ofxSyphon).
 
 A major thing here to keep in mind is that whatever you draw in the screen before the command *"mainOutputSyphonServer.publishScreen()"* is going to get sent to OBS. Thus, for example:
 
