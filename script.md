@@ -6,9 +6,9 @@
 4. Introduction to Machine Learning (1h:20);
 5. Break (15 minutes);
 6. Machine Learning framework for Insertions (1h:30); 
-- Wekinator
-- Simple classification examples with video-camera
-- News insertion w/machine learning
+	- Wekinator
+	- Simple classification examples with video-camera
+	- News insertion w/machine learning
 7. Brainstorm & 'homework' (45 minutes).
 
 ## Day 2: Action!
