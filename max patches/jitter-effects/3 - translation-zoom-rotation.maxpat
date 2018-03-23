@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 1833.0, 139.0, 1052.0, 553.0 ],
+		"rect" : [ 868.0, 139.0, 1052.0, 553.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -938,7 +938,7 @@
 			}
 , 			{
 				"box" : 				{
-					"attr" : "zoom_x",
+					"attr" : "boundmode",
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-9",
