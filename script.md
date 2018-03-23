@@ -12,11 +12,17 @@
 7. Brainstorm & 'homework' (45 minutes).
 
 ## Day 2: Action!
-0. Recap & demo;
-1. Discussing ideas (45 h);
-2. Defining projects & roles (15 minutes);
-3. Iterative development: Part 1 (1:30 h);
-3. Break (15 minutes);
-4. Reporting and Evaluation (15 minutes);
-5. Iterative development: Refining & Wrapping-up (1h:30);
-6. Presentation (30 minutes).
+1. Recap & demo (Due by 1:30 PM);
+	- Destination medium (Local TV vs. Internet);
+	- Machine Learning (Wekinator; Face tracker; Classifier);
+	- Video processing (Basic overlaying, Programming);
+2. Brainstorm & Discussion (Due by  2:40 PM);
+	- Goal: Two ideas to implement;
+3. Defining projects & roles (Due by 2:50 PM);
+4. Break (Due by 3:00 PM);
+5. Iterative development: Part 1 (Due by 4:00 PM);
+6. Reporting and Evaluation (Due by 4:15 PM);
+7. Iterative development: Refining & Wrapping-up (Due by 5:15 PM);
+8. Presentation (Due by 5:45 PM).
+9. Conclusion (Due by 6:00 PM)
+	- Contact us if you want to further explore this! ;)
