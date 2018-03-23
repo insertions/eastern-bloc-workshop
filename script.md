@@ -12,6 +12,7 @@
 7. Brainstorm & 'homework' (45 minutes).
 
 ## Day 2: Action!
+0. Recap & demo;
 1. Discussing ideas (45 h);
 2. Defining projects & roles (15 minutes);
 3. Iterative development: Part 1 (1:30 h);
